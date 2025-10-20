@@ -13,7 +13,7 @@ if __name__ == '__main__':
     letterguessed = ''
     chances = len(word) + 2
     correct = 0
-    flag = 0
+   
 
     try:
         while chances != 0:
