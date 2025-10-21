@@ -1,0 +1,19 @@
+[33mcommit 68874e0637ebbf769965fc04f974747ccd392737[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ankush kamboj <aankushkamboj033@gmail.com>
+Date:   Mon Oct 20 09:01:32 2025 +0530
+
+    Added word guessing and hangman game
+
+[33mcommit b492f1514083f4e1f2d3a1bb40f024ff4380e057[m
+Author: Ankush kamboj <aankushkamboj033@gmail.com>
+Date:   Mon Oct 20 09:00:27 2025 +0530
+
+    Added word guessing and hangman game
+
+[33mcommit 5c966d1d37a1a27b96c100de7555f91689be6e0a[m
+Author: Ankush kamboj <aankushkamboj033@gmail.com>
+Date:   Thu Oct 16 13:47:30 2025 +0530
+
+    Create guessing_game.py
+    
+    it is 1st small project of python.
